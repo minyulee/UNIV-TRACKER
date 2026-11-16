@@ -1,8 +1,8 @@
-# 📒 KGU-tracker (`MY UNIVERSITY`)
+# 📒 UNIV-TRACKER
 
-경기대학교(Kyonggi University) 전공 수업 및 학업 일정을 과목별로 체계적으로 관리하고, 여러 기기에서 실시간으로 동기화할 수 있는 개인용 웹 일정 관리 애플리케이션입니다.
+대학교 전공 수업 및 학업 일정을 과목별로 체계적으로 관리하고, 여러 기기에서 실시간으로 동기화할 수 있는 개인용 웹 일정 관리 애플리케이션입니다.
 
-🔗 **Live Demo:** [https://minyulee.github.io/KGU-tracker/](https://minyulee.github.io/KGU-tracker/)
+🔗 **Live Demo:** [https://minyulee.github.io/UNIV-TRCKER/](https://minyulee.github.io/UNIV-TRACKER/)
 
 ---
 
